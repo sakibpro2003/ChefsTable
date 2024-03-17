@@ -3,7 +3,7 @@
     "id": 1,
     "recipe_name": "Teriyaki Chicken Stir-Fry",
     "short_description": "A delicious stir-fry with tender chicken, assorted vegetables, and a savory teriyaki sauce.",
-    "ingredients": ["600 g chicken breast", "150 ml teriyaki sauce", "250 g broccoli", "300 g bell peppers"],
+    "ingredients": ["600 g chicken breast", "150 ml teriyaki sauce", "250 g broccoli"],
     "preparing_time": 35,
     "calories": 350,
     "recipe_image": "https://r2.easyimg.io/vxdpsk8qv/stir-fry-chicken-sweet-peppers-green-beans.jpg"
@@ -12,7 +12,7 @@
     "id": 2,
     "recipe_name": "Mushroom & Spinach Pasta Primavera",
     "short_description": "A vibrant pasta dish featuring mushrooms, spinach, and a medley of fresh vegetables, tossed in olive oil.",
-    "ingredients": ["350 g pasta", "3 cups mixed mushrooms", "4 cups baby spinach", "4 cloves garlic"],
+    "ingredients": ["350 g pasta", "3 cups mixed mushrooms", "4 cups baby spinach", "4 cloves garlic","3 cup soya"],
     "preparing_time": 30,
     "calories": 280,
     "recipe_image": "https://r2.easyimg.io/u4xuwfd2h/pasta-fusilli-with-tomato-broccoli-earthenware.jpg"

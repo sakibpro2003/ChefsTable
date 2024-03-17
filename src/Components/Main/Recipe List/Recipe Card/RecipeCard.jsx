@@ -41,7 +41,7 @@ const RecipeCard = ({recipeCard, handleAddToWantToCook}) => {
                         {
                             ingredients.map((ingredient, idx) => 
                                 <div key={idx}>
-                                    <ul className="list-disk">
+                                    <ul className="list-disc">
                                         <li>{ingredient}</li>
                                     </ul>
                                 </div>
